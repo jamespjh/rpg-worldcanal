@@ -1,8 +1,8 @@
 The World Canal
 ===============
 
-> For the peoples and nations of the British Empire, from the peoples and species of the star-river concord,
-> as a present.
+> For the peoples and nations of the British Empire, from the peoples and species of the Star-River Concord,
+> as a Present.
 
 This repository contains notes and rules for a roleplaying game in the stow-gaming series. 
 
