@@ -17,6 +17,9 @@ Distances are roughly logarithmic relative to real world, subject to crew whimsy
 
 Home capitals:
 
+Home ring is roughly a three days march around (75 miles). 
+Centre of ring is a farmable bowl, a day's walk (25 miles) across.
+
 Bristol
 Cardiff
 Manchester
@@ -24,6 +27,8 @@ Edinburgh
 Dublin
 
 Earth capitals
+
+Earth ring is roughly a month's march around (750 miles).
 
 Gibraltar
 Cairo (on a Middle East ring)
@@ -33,6 +38,9 @@ Sidney (on an Australia ring)
 (Carribean ring)
 
 System
+
+System ring is roughly a year's walk to pluto. (10000 miles)
+Mars is about a day's drive.
 
 Moon, Mars, Asteroids, Venus, Mercury, Jupiter System, Saturn System...
 
