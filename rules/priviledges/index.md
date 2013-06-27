@@ -31,3 +31,7 @@ Access to gates, to return from the canal into the real world, is subject to app
 * L5 to leave the solar ring with a new gate?
 
 Various levels for various other rings.
+
+Travellers can bring guests through gates for which they have privileges. 
+Thus, travellers at L0 cannot leave unless accompanied. A shard of the Security Officer guards each gate
+and oversees this. The security guards for lower level gates will generally not physically appear unless needed.
