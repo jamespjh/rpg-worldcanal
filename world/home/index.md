@@ -6,14 +6,14 @@ The Home Ring is much less fantastical than others may expect.
 The structure is: (each square is one travel hour along a canal at walking pace (3 miles) )
 
 ```
-   w   m
+   w   e
  h--L+-B s
  /   |  \
 sN  p|   C h
  |  o|o p|
  *---X---*
  Ep o|o  | 
-m|   |p  D w
+e|   |p  D w
  G   |   /
  w--M+-- m
   h   s
