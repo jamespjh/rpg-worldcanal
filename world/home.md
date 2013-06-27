@@ -3,13 +3,7 @@ The Home Ring
 
 The Home Ring is much less fantastical than others may expect.
 
-The structure is: (each is one travel hour along a canal at walking pace (3 miles)
-
-```
-L+-B-C-*-D---+M-G-E*-N--L
-+---X---+
-*---X---*
-```
+The structure is: (each square is one travel hour along a canal at walking pace (3 miles) )
 
 ```
    w   m
@@ -36,12 +30,12 @@ Gates:
 * G: Glasgow
 * E: Edinburgh
 * N: Newcastle
-* X: Gate to world ring, main town of ?
+* X: Gate to world ring, main town of halflings
 
 Other locations
 * (+,*): Canal branches
 * o: Cleared of forest
-* p: Outpost of ?
+* p: Outpost of halflings
 * w: Wolf den
 * e: Eagle eerie
 * h: Huorn forest
