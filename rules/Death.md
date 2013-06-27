@@ -8,13 +8,20 @@ If your body is still within the canal world within the danger period, this coun
 
 
 Once your death level has raised (by deaths in succession), it cannot fall without Crew aid.
+
 Level drain actually raises death levels. 
+
 Raise Dead removes 1d3 death levels from someone currently in the canal, and cannot bring someone below level 3.
+
 Resurrection removes 1 death level from someone in the real, 
 or 1d6 from someone in the canal, and cannot bring below L2.
+
 True Resurrection removes all death levels, real or not.
 
 If a body is returned to the real, these cannot be removed without resurrection.
+
+Bringing a corpse through a gate to a different zone of the canal does not reset the timer,
+unless it is the home zone of the traveller. Death in the home zone is permanent.
 
 ```
 Level | Lockout | Danger
