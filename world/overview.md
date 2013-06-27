@@ -20,22 +20,24 @@ Home capitals:
 Home ring is roughly a three days march around (75 miles). 
 Centre of ring is a farmable bowl, a day's walk (25 miles) across.
 
-Bristol
-Cardiff
-Manchester
-Edinburgh
-Dublin
+* Bristol
+* Cardiff
+* Manchester
+* Edinburgh
+* Dublin
 
 Earth capitals
 
 Earth ring is roughly a month's march around (750 miles).
 
-Gibraltar
-Cairo (on a Middle East ring)
-Toronto (on a Canadian ring)
-Cape Town (on an African ring)
-Sidney (on an Australia ring)
-(Carribean ring)
+* Gibraltar
+* Cairo (on a Middle East ring)
+* Toronto (on a North American ring -- the U.S. is somehow difficult)
+* Cape Town (on an African ring)
+* Sidney (on an Australasia ring)
+* (Carribean ring)
+* Singapore (on an East Asia ring)
+* Mumbai (on a South Asia ring)
 
 System
 
@@ -55,9 +57,9 @@ dynamism and creativity, but the areas that individual crewmembers particularly 
 
 Known crew of the Invented Chronicle:
 
-Captain -- Organisation, structure, teamwork.
-Engineer -- Reliability, constructiveness, technology.
-Quartermaster -- Abundance, opulence, trade, growth.
-Navigator -- Exploration, discovery, inventiveness.
-Relations -- Society, friendship, talking.
-Security -- Power, struggle, victory, resilience.
+* Captain -- Organisation, structure, teamwork.
+* Engineer -- Reliability, constructiveness, technology.
+* Quartermaster -- Abundance, opulence, trade, growth.
+* Navigator -- Exploration, discovery, inventiveness.
+* Relations -- Society, friendship, talking.
+* Security -- Power, struggle, victory, resilience.
