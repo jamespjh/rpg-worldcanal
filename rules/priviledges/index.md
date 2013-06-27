@@ -20,14 +20,14 @@ Then, XP must be gained to reach L2 threshold. Another appropriate symbolic act 
 
 Access to gates, to return from the canal into the real world, is subject to appropriate access privileges.
 
-L1 for leaving the home ring by a seeded gate.
-L2 for leaving the home ring and opening a new gate.
-L3 to leave the home ring for the world ring.
-L3 to leave the world ring and enter earth subrings.
-L3 to leave earth subrings for the real world via an existing gate.
-L4 to create a new world gate.
-L4 to leave the world ring for the solar ring.
-L4 to leave the solar ring to Luna (an existing gate).
-L5 to leave the solar ring with a new gate?
+* L1 for leaving the home ring by a seeded gate.
+* L2 for leaving the home ring and opening a new gate.
+* L3 to leave the home ring for the world ring.
+* L3 to leave the world ring and enter earth subrings.
+* L3 to leave earth subrings for the real world via an existing gate.
+* L4 to create a new world gate.
+* L4 to leave the world ring for the solar ring.
+* L4 to leave the solar ring to Luna (an existing gate).
+* L5 to leave the solar ring with a new gate?
 
 Various levels for various other rings.
