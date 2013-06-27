@@ -12,15 +12,17 @@ L+-B-C-*-D---+M-G-E*-N--L
 ```
 
 ```
-  -L+-B
-/   |  \
-N   |   C
-|   |   |
-*---X---*
-E   |   |
-|   |   D
-G   |   /
-  -M+--
+   w   m
+ h--L+-B s
+ /   |  \
+sN  p|   C h
+ |  o|o p|
+ *---X---*
+ Ep o|o  | 
+m|   |p  D w
+ G   |   /
+ w--M+-- m
+  h   s
 ```
 
 
@@ -38,4 +40,10 @@ Gates:
 
 Other locations
 * (+,*): Canal branches
-
+* o: Cleared of forest
+* p: Outpost of ?
+* w: Wolf den
+* e: Eagle eerie
+* h: Huorn forest
+* m: Miconid felling
+* s: Spider wood
