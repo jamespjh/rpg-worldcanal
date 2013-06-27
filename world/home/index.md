@@ -6,7 +6,7 @@ The Home Ring is much less fantastical than others may expect.
 The structure is: (each square is one travel hour along a canal at walking pace (3 miles) )
 
 ```
-   w   e
+   e   c
  h--L+-B s
  /   |  \
 sN  p|   C h
@@ -41,3 +41,4 @@ Other locations
 * h: Huorn forest
 * m: Miconid felling
 * s: Spider wood
+* c: Crab beach
