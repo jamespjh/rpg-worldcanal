@@ -30,3 +30,5 @@ are needed to access higher powers.
 
 There are currently 25 L1 and 5 L2 Pobl. They have traditions extending from the four great songs, which these heros
 follow.
+
+-2 Str, +2 Dex, +2 Cha.
