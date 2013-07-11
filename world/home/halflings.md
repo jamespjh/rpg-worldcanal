@@ -25,14 +25,21 @@ and then one day ventured through the centre ring. He returned a year and a day 
 Four individuals in history have gained escalated priviledges sufficient to go through the gate and returned. (L3)
 Another fifty or so have gone and not returned.
 
-Eric Mac Dee, Mhairi Mac Dee, Iain Mac Een, and Shona Mac Ped. Shona Mac Ped is alive and very old. She remembers
-reaching the great water, and speaking to the Men of the Sea. She has a ring of water breathing.
+Eric Mac Dee, Mhairi Mac Dee, Iain Mac Een, Shona Mac Ped, and Gwen MacEen. Shona Mac Ped is alive and very old. She remembers
+reaching the great water, and speaking to the Men of the Sea. She has a ring of water breathing. Jenny MacEen, 
+Jinny Angles, came back and for a few years was a great gardner, but went weird (as did Mhairi Mac Dee.)
 
 It is known that at least some escalated priviledges, which they refer to as being "Sung", 
 are needed to access higher powers.
 
 There are currently 25 L1 and 5 L2 Pobl. They have traditions extending from the four great songs, which these heros
-follow.
+follow. 
+
+* Eric: Fighter, 
+* Mhairi: Rogue
+* Ian: Wizard
+* Shona: Cleric (navigator)
+* Gwen: Druid.
 
 Conner MacTree is the current Rie, Moira Mac Een the current Rianne.
 
