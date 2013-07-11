@@ -43,7 +43,7 @@ follow.
 
 Conner MacTree is the current Rie, Moira Mac Een the current Rianne.
 
-Duncan Mac Ped is the commander of the guardpost they first meet.
-Mannan Mac Dee is his lieutenant.
+Mannan Mac Dee is the commander of the guardpost they first meet.
+Duncan Mac Ped is his lieutenant.
 
 -2 Str, +2 Dex, +2 Cha.
