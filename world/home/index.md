@@ -7,16 +7,16 @@ The structure is: (each square is one travel hour along a canal at walking pace 
 
 ```
    ec  w
- h--L+-B s
- /   |  \
-sN  p|   C 
- |  o|o p| hh
+ w--L+-B c
+ /   |  \ s
+sN  p|o  C 
+ | oo|op | hm
  *---X---*---V
- Ep o|o  | h
-e|   |p  D w
+ E po|o0 | hmh
+e|  o|p  D m
  G   |   /
- w--M+-- m
-  h   s
+ w--M+-- w
+  c   s
 ```
 
 
