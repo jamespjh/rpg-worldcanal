@@ -7,7 +7,7 @@ The structure is: (each square is one travel hour along a canal at walking pace 
 
 ```
    ec  w
- w--L+-B c
+ w--L+-B f
  /   |  \ s
 sN  p|o  C 
  | oo|op | hm
@@ -46,3 +46,4 @@ Other locations
 * m: Miconid felling
 * s: Spider wood
 * c: Crab beach
+* f: Fly
