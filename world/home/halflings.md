@@ -31,4 +31,8 @@ are needed to access higher powers.
 There are currently 25 L1 and 5 L2 Pobl. They have traditions extending from the four great songs, which these heros
 follow.
 
+Conner MacTree is the current Rie, Moira Mac Een the current Rianne.
+
+Duncan Mac Ped is the commander of the guardpost they first meet.
+
 -2 Str, +2 Dex, +2 Cha.
