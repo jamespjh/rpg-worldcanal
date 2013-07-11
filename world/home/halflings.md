@@ -5,7 +5,8 @@ The Pobl are small humans, with caucasian skin color, african hair, and asian fe
 They are about 4in shorter than 21st century humans, i.e. about 2in shorter than people of the C19th.
 
 They are genetically capable of the same intelligence and
-size as humans from the real world, but are underfed and culturally behind. There are about 250 of them.
+size as humans from the real world, but are underfed and culturally behind. 
+There are about 250 of them in the home ring, and scattered groups in worlds beyond.
 
 Their history extends back 150 years, to the time the world was seeded. They are aware of the Crew, whom they
 refer to as the Planters. The original 4 families represent four clans, the McEen, MacDee, MacTree, and MacPed.
@@ -21,7 +22,9 @@ They do not venture beyond the ring, except for a few famous individuals, the gr
 who emptied out a very threatening band of miconids from inside the ring, broke an Eagle Eerie outside,
 and then one day ventured through the centre ring. He returned a year and a day later bearing some magic items TBD.
 
-Four individuals in history have gained escalated priviledges sufficient to go through the gate. (L3)
+Four individuals in history have gained escalated priviledges sufficient to go through the gate and returned. (L3)
+Another fifty or so have gone and not returned.
+
 Eric Mac Dee, Mhairi Mac Dee, Iain Mac Een, and Shona Mac Ped. Shona Mac Ped is alive and very old. She remembers
 reaching the great water, and speaking to the Men of the Sea. She has a ring of water breathing.
 
