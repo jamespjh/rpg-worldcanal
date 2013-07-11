@@ -63,3 +63,12 @@ Known crew of the Invented Chronicle:
 * Navigator -- Exploration, discovery, inventiveness.
 * Relations -- Society, friendship, talking.
 * Security -- Power, struggle, victory, resilience.
+
+Each crewmember has left a significant AI representations of themselves in 
+priviledged connected worlds at various points in the network. A navigator AI resides in most gates.
+
+The Gremlins
+============
+
+The Invented Chronicle is an old ship, and has some problems in its world-building engines. These manifest as bugs
+in created worlds, relating to each of the Crew. Some Bugs have manifested in subroutine worldlets.
