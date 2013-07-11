@@ -26,8 +26,8 @@ Four individuals in history have gained escalated priviledges sufficient to go t
 Another fifty or so have gone and not returned.
 
 Eric Mac Dee, Mhairi Mac Dee, Iain Mac Een, Shona Mac Ped, and Gwen MacEen. Shona Mac Ped is alive and very old. She remembers
-reaching the great water, and speaking to the Men of the Sea. She has a ring of water breathing. Jenny MacEen, 
-Jinny Angles, came back and for a few years was a great gardner, but went weird (as did Mhairi Mac Dee.)
+reaching the great water, and speaking to the Men of the Sea. She has a ring of water breathing. Gwen MacEen, 
+Jinny Angles, came back and for a few years was a great gardner, but went weird (as did Mhairi Mac Dee, Sneaking Gwen.)
 
 It is known that at least some escalated priviledges, which they refer to as being "Sung", 
 are needed to access higher powers.
