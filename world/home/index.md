@@ -9,10 +9,10 @@ The structure is: (each square is one travel hour along a canal at walking pace 
    ec  w
  h--L+-B s
  /   |  \
-sN  p|   C h
- |  o|o p|
- *---X---*
- Ep o|o  | 
+sN  p|   C 
+ |  o|o p| hh
+ *---X---*---V
+ Ep o|o  | h
 e|   |p  D w
  G   |   /
  w--M+-- m
@@ -31,6 +31,7 @@ Gates:
 * E: Edinburgh
 * N: Newcastle
 * X: Gate to world ring, main town of halflings
+* V: lair of Jinny Angles
 
 Other locations
 * (+,*): Canal branches
