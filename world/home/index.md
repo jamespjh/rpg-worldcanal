@@ -10,7 +10,7 @@ The structure is: (each square is one travel hour along a canal at walking pace 
  w--L+-B f
  /   |  \ s
 sN  p|o  C 
- | oo|op | hm
+ | oo|p0 | hm
  *---X---*~~~V
  E po|o0 | hmh
 e|  o|p  D m
