@@ -20,26 +20,46 @@ they will under genetic ananalysis appear to be a human population with no obvio
 
 They do not venture beyond the ring, except for a few famous individuals, the greatest of which was Eric MacDee,
 who emptied out a very threatening band of miconids from inside the ring, broke an Eagle Eerie outside,
-and then one day ventured through the centre ring. He returned a year and a day later bearing some magic items TBD.
+and then one day ventured through the centre ring. He returned a year and a day later bearing some magic items, including
+a ring of protection +1, a wand of cure light wounds, and a dagger +1, which Connor has.
 
 Five individuals in history have gained escalated priviledges sufficient to go through the gate and returned. (L3)
 Another fifty or so have gone and not returned.
 
-Eric Mac Dee, Mhairi Mac Dee, Iain Mac Een, Shona Mac Ped, and Gwen MacEen. Shona Mac Ped is alive and very old. She remembers
+These are Eric Mac Dee, Mhairi Mac Dee, Iain Mac Een, Shona Mac Ped, and Gwen MacEen. Shona Mac Ped is alive and very old. She remembers
 reaching the great water, and speaking to the Men of the Sea. She has a ring of water breathing. Gwen MacEen, 
 Jinny Angles, came back and for a few years was a great gardner, but went weird (as did Mhairi Mac Dee, Sneaking Gwen.)
 
-It is known that at least some escalated priviledges, which they refer to as being "Sung", 
-are needed to access higher powers.
-
-There are currently 25 L1 and 5 L2 Pobl. They have traditions extending from the four great songs, which these heros
-follow. 
+Travellers:
 
 * Eric: Fighter, 
 * Mhairi: Rogue
 * Ian: Wizard
 * Shona: Cleric (navigator)
 * Gwen: Druid.
+
+It is known that at least some escalated priviledges, which they refer to as being "Sung", 
+are needed to access higher powers.
+
+There are currently 25 L1 and 4 L2 Pobl. They have traditions extending from the four great songs, which these heros
+follow. 
+
+Current L2:
+
+* Connor MacTree, Rie, Rogue. Killed Sneaking Gwen
+* Mannan MacDee, Fighter.
+* Shona Mac Ped, Cleric.
+* Moira Mac Een, Wizard.
+
+L1:
+
+* Duncan Mac Ped, Rogue.
+* Allan MacEen, Druid.
+
+Commoners:
+
+* Johnny MacEen, a farmer.
+* Eileen MacTree, innkeeper.
 
 Conner MacTree is the current Rie, Moira Mac Een the current Rianne.
 
