@@ -39,6 +39,8 @@ Earth ring is roughly a month's march around (750 miles).
 * Singapore (on an East Asia ring)
 * Mumbai (on a South Asia ring)
 
+A Europe Ring is a potential on the world ring, currently undefined and barren.
+
 System
 
 System ring is roughly a year's walk to pluto. (10000 miles)

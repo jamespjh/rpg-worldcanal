@@ -28,7 +28,7 @@ Another fifty or so have gone and not returned.
 
 These are Eric Mac Dee, Mhairi Mac Dee, Iain Mac Een, Shona Mac Ped, and Gwen MacEen. Shona Mac Ped is alive and very old. She remembers
 reaching the great water, and speaking to the Men of the Sea. She has a ring of water breathing. Gwen MacEen, 
-Jinny Angles, came back and for a few years was a great gardner, but went weird (as did Mhairi Mac Dee, Sneaking Gwen.)
+Jinny Angles, came back and for a few years was a great gardner, but went weird (as did Mhairi Mac Dee, Sneaking Mary.)
 
 Travellers:
 
@@ -48,8 +48,8 @@ Current L2:
 
 * Connor MacTree, Rie, Rogue. Killed Sneaking Gwen
 * Mannan MacDee, Fighter.
-* Shona Mac Ped, Cleric.
-* Moira Mac Een, Wizard.
+* Shona Mac Ped, Cleric, 
+* Moira Mac Een, Wizard, Rianne.
 
 L1:
 
