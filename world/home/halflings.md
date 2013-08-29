@@ -22,7 +22,7 @@ They do not venture beyond the ring, except for a few famous individuals, the gr
 who emptied out a very threatening band of miconids from inside the ring, broke an Eagle Eerie outside,
 and then one day ventured through the centre ring. He returned a year and a day later bearing some magic items TBD.
 
-Four individuals in history have gained escalated priviledges sufficient to go through the gate and returned. (L3)
+Five individuals in history have gained escalated priviledges sufficient to go through the gate and returned. (L3)
 Another fifty or so have gone and not returned.
 
 Eric Mac Dee, Mhairi Mac Dee, Iain Mac Een, Shona Mac Ped, and Gwen MacEen. Shona Mac Ped is alive and very old. She remembers
