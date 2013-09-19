@@ -43,8 +43,8 @@ A Europe Ring is a potential on the world ring, currently undefined and barren.
 
 System
 
-System ring is roughly a year's walk to pluto. (10000 miles)
-Mars is about a day's drive.
+System ring is roughly a year's walk to pluto. (10000 miles) (25 days driving)
+Mars is about a day's drive. (400 miles)
 
 Moon, Mars, Asteroids, Venus, Mercury, Jupiter System, Saturn System...
 

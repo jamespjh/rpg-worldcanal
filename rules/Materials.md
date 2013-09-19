@@ -22,3 +22,15 @@ High maximum complexity.
 Resilience determines viscosity.
 At low complexity, behaviour change is a more sudden phase transition (solid<->liquid)
 At high complexity, becomes soft, like treacle or wax depending on the details of the code.
+
+Energy types:
+
+Electricity: Increasing potential
+Cold: Decreasing potential
+Positive: Increasing complexity
+Negative: Decreasing complexity
+
+Acid and Sonic damage are not energy types, they're physical manifestations of the use of potential.
+
+Fire is contagious increase in potential, resulting from release of all potential when resilience drops to nil.
+

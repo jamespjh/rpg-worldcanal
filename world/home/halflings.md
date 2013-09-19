@@ -55,6 +55,7 @@ L1:
 
 * Duncan Mac Ped, Rogue.
 * Allan MacEen, Druid.
+* Andrew MacDee, Cleric.
 
 Commoners:
 
@@ -65,5 +66,9 @@ Conner MacTree is the current Rie, Moira Mac Een the current Rianne.
 
 Mannan Mac Dee is the commander of the guardpost they first meet.
 Duncan Mac Ped is his lieutenant.
+
+Angela
+Angus
+
 
 -2 Str, +2 Dex, +2 Cha.
